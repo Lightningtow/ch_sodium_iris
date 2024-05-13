@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "ch_sodium_iris",
+	"version": "${version}",
+	"name": "CustomHud Addons",
+	"description": "Mod integrations for CustomHud",
+	"authors": [ "Minenash", "Lightningtow" ],
+	"contact": {
+		"homepage": "todo",
+		"sources": "https://github.com/Lightningtow/Hudify"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/hudify/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.minenash.ch_sodium_iris.Main"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*",
+		"custom_hud": "*"
+	}
+}

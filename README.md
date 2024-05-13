@@ -1,0 +1,1 @@
+todo transfer/copy variable info from https://customhud.dev/v3/variables.html

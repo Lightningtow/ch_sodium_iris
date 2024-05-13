@@ -1,3 +1,11 @@
+.gradle/
+.github/
+.idea/
+build/
+run/
+z_alexstuff/
+
+
 # Compiled class file
 *.class
 
